@@ -1,2 +1,2 @@
-# spring-boot-3-desenvolva-api-rest-java
+# Spring Boot 3
 Curso de Spring Boot 3: Desenvolva uma API Rest em Java
